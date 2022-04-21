@@ -1,0 +1,14 @@
+{
+  "name": "youtube-to-transistor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "child-process-promise": "^2.2.1",
+    "marked": "^1.2.6",
+    "mkdirp": "^1.0.4",
+    "xml2js": "^0.4.23",
+    "yargs": "^16.2.0"
+  }
+}
